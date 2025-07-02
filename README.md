@@ -72,7 +72,6 @@
 </head>
 <body>
   <header>
-    <img src="https://upload.wikimedia.org/wikipedia/zh/f/f0/Hotai_Motor_logo.svg" alt="Hotai Logo" class="logo">
     <h1>石化業技術問題彙整</h1>
     <p class="intro">由和泰集團內部技術彙編支援整理</p>
     <p>主題分類：名詞解釋、管道、維修、腐蝕、警報、防爆、火災防護</p>
